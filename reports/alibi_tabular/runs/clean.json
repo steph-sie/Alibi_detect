@@ -1,0 +1,10 @@
+{
+  "run": "clean",
+  "dataset_drift": true,
+  "global_p_value": null,
+  "alpha": 0.05,
+  "drift_ratio": 0.0196078431372549,
+  "drifted_features": [
+    "weight"
+  ]
+}
